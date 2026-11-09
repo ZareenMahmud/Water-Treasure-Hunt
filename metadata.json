@@ -1,0 +1,6 @@
+{
+  "name": "Deep Sea Treasure",
+  "description": "An exhilarating 2D underwater adventure game. Dive deep, collect legendary sunken treasures, dodge ferocious sharks, and defeat the giant Megalodon boss!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
